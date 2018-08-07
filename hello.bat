@@ -1,1 +1,1 @@
-echo 'Hello all i am learning DevOps'
+echo 'why am i doing this'
